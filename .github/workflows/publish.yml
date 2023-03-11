@@ -9,8 +9,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: kaw393939/mywebclass
-
+  DOCKER_REPO_NAME: kajolp329/mywebclass-simulation
 jobs:
   build:
     runs-on: ubuntu-latest
